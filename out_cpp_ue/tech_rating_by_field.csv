@@ -1,0 +1,844 @@
+field_type,technology,count
+Backend & High-Load Services,C++,16
+Backend & High-Load Services,PostgreSQL,9
+Backend & High-Load Services,Docker,8
+Backend & High-Load Services,Git,8
+Backend & High-Load Services,Python,8
+Backend & High-Load Services,Linux,7
+Backend & High-Load Services,Kubernetes,6
+Backend & High-Load Services,SQL,6
+Backend & High-Load Services,Go,5
+Backend & High-Load Services,Prometheus,4
+Backend & High-Load Services,CI/CD,3
+Backend & High-Load Services,CMake,3
+Backend & High-Load Services,Grafana,3
+Backend & High-Load Services,Java,3
+Backend & High-Load Services,JavaScript,3
+Backend & High-Load Services,REST,3
+Backend & High-Load Services,TCP/IP,3
+Backend & High-Load Services,gRPC,3
+Backend & High-Load Services,Allure,2
+Backend & High-Load Services,C,2
+Backend & High-Load Services,C#,2
+Backend & High-Load Services,C/C++,2
+Backend & High-Load Services,ClickHouse,2
+Backend & High-Load Services,Kafka,2
+Backend & High-Load Services,Microservices,2
+Backend & High-Load Services,Oracle,2
+Backend & High-Load Services,PHP,2
+Backend & High-Load Services,Postman,2
+Backend & High-Load Services,REST API,2
+Backend & High-Load Services,RabbitMQ,2
+Backend & High-Load Services,React,2
+Backend & High-Load Services,Redis,2
+Backend & High-Load Services,SOAP,2
+Backend & High-Load Services,STL,2
+Backend & High-Load Services,Selenium,2
+Backend & High-Load Services,TestRail,2
+Backend & High-Load Services,.NET,1
+Backend & High-Load Services,API,1
+Backend & High-Load Services,Active Directory,1
+Backend & High-Load Services,Agile,1
+Backend & High-Load Services,Ansible,1
+Backend & High-Load Services,Apache Ignite,1
+Backend & High-Load Services,Apache Spark,1
+Backend & High-Load Services,Appium,1
+Backend & High-Load Services,BPMN,1
+Backend & High-Load Services,Backend,1
+Backend & High-Load Services,Bash,1
+Backend & High-Load Services,Bazel,1
+Backend & High-Load Services,Boost.Asio,1
+Backend & High-Load Services,Boost.Beast,1
+Backend & High-Load Services,C++ (преимущество),1
+Backend & High-Load Services,C++17,1
+Backend & High-Load Services,C++20/23,1
+Backend & High-Load Services,CGO,1
+Backend & High-Load Services,CI,1
+Backend & High-Load Services,Catch2,1
+Backend & High-Load Services,Clang,1
+Backend & High-Load Services,Cypress,1
+Backend & High-Load Services,Databases,1
+Backend & High-Load Services,Delphi,1
+Backend & High-Load Services,DevOps / CI/CD,1
+Backend & High-Load Services,Elasticsearch,1
+Backend & High-Load Services,Electron,1
+Backend & High-Load Services,FastAPI,1
+Backend & High-Load Services,Flink,1
+Backend & High-Load Services,Frontend,1
+Backend & High-Load Services,GDB,1
+Backend & High-Load Services,GNU autotools,1
+Backend & High-Load Services,GNU make,1
+Backend & High-Load Services,GTest,1
+Backend & High-Load Services,Gatling,1
+Backend & High-Load Services,GitLab,1
+Backend & High-Load Services,GitLab CI,1
+Backend & High-Load Services,GitLab CI / CI/CD,1
+Backend & High-Load Services,Go (1.20+),1
+Backend & High-Load Services,Golang,1
+Backend & High-Load Services,Google Benchmark,1
+Backend & High-Load Services,HTTP/2,1
+Backend & High-Load Services,HTTP/HTTPS,1
+Backend & High-Load Services,Helm,1
+Backend & High-Load Services,Hive,1
+Backend & High-Load Services,IntelliJ IDEA,1
+Backend & High-Load Services,Istio / Service Mesh,1
+Backend & High-Load Services,JDBC/ODBC,1
+Backend & High-Load Services,JMeter,1
+Backend & High-Load Services,JSON,1
+Backend & High-Load Services,JavaScript (Vue.js),1
+Backend & High-Load Services,JavaScript (опционально),1
+Backend & High-Load Services,Jira,1
+Backend & High-Load Services,Keycloak,1
+Backend & High-Load Services,Linux (Astra Linux),1
+Backend & High-Load Services,Locust,1
+Backend & High-Load Services,MPP / распределённые системы,1
+Backend & High-Load Services,MS Excel,1
+Backend & High-Load Services,MS SQL,1
+Backend & High-Load Services,Message brokers,1
+Backend & High-Load Services,MinIO,1
+Backend & High-Load Services,MongoDB,1
+Backend & High-Load Services,Multithreading,1
+Backend & High-Load Services,Nginx,1
+Backend & High-Load Services,NoSQL,1
+Backend & High-Load Services,ORC,1
+Backend & High-Load Services,PL/SQL,1
+Backend & High-Load Services,Parquet,1
+Backend & High-Load Services,Playwright,1
+Backend & High-Load Services,Profiling/Performance optimization,1
+Backend & High-Load Services,Protocol Buffers (protobuf),1
+Backend & High-Load Services,Pytest,1
+Backend & High-Load Services,QUIC,1
+Backend & High-Load Services,RAD Server,1
+Backend & High-Load Services,Rust,1
+Backend & High-Load Services,S3,1
+Backend & High-Load Services,SPDK,1
+Backend & High-Load Services,Scala,1
+Backend & High-Load Services,Sphinxsearch (MySQL),1
+Backend & High-Load Services,TCP,1
+Backend & High-Load Services,TLS,1
+Backend & High-Load Services,TLS / криптография,1
+Backend & High-Load Services,Tarantool,1
+Backend & High-Load Services,Team management,1
+Backend & High-Load Services,TypeScript,1
+Backend & High-Load Services,UDP,1
+Backend & High-Load Services,UML,1
+Backend & High-Load Services,Ubuntu 22/24 LTS,1
+Backend & High-Load Services,Unit/Integration testing,1
+Backend & High-Load Services,Valgrind,1
+Backend & High-Load Services,VictoriaMetrics,1
+Backend & High-Load Services,WebRTC,1
+Backend & High-Load Services,XML,1
+Backend & High-Load Services,Zabbix,1
+Backend & High-Load Services,cryptography,1
+Backend & High-Load Services,eBPF,1
+Backend & High-Load Services,fasthttp,1
+Backend & High-Load Services,fmt,1
+Backend & High-Load Services,gTest,1
+Backend & High-Load Services,netfilter,1
+Backend & High-Load Services,perf,1
+Backend & High-Load Services,sockets,1
+Backend & High-Load Services,unit-тесты,1
+Backend & High-Load Services,Базы данных/СУБД,1
+Backend & High-Load Services,Веб-программирование,1
+Backend & High-Load Services,возможное: Rust,1
+Backend & High-Load Services,микросервисы,1
+Backend & High-Load Services,сетевые протоколы,1
+Backend & High-Load Services,хранимые процедуры,1
+Desktop Applications & CAD,C++,10
+Desktop Applications & CAD,Linux,8
+Desktop Applications & CAD,Git,5
+Desktop Applications & CAD,Windows,5
+Desktop Applications & CAD,CMake,4
+Desktop Applications & CAD,ООП,4
+Desktop Applications & CAD,Boost,3
+Desktop Applications & CAD,C#,3
+Desktop Applications & CAD,Qt,3
+Desktop Applications & CAD,SQL,3
+Desktop Applications & CAD,C++17,2
+Desktop Applications & CAD,PostgreSQL,2
+Desktop Applications & CAD,QML,2
+Desktop Applications & CAD,SCRUM,2
+Desktop Applications & CAD,STL,2
+Desktop Applications & CAD,qmake,2
+Desktop Applications & CAD,.NET 6,1
+Desktop Applications & CAD,1С:Бухгалтерия государственного учреждения,1
+Desktop Applications & CAD,1С:Документооборот,1
+Desktop Applications & CAD,1С:Зарплата и управление персоналом,1
+Desktop Applications & CAD,1С:Предприятие 8,1
+Desktop Applications & CAD,"ARM/STM32, АЦП (преимущество)",1
+Desktop Applications & CAD,AutoCAD,1
+Desktop Applications & CAD,C++ (C++11+),1
+Desktop Applications & CAD,C++ (C++11/14/17/20),1
+Desktop Applications & CAD,C++ (C++14/17),1
+Desktop Applications & CAD,C/C++,1
+Desktop Applications & CAD,CAD,1
+Desktop Applications & CAD,CI/CD,1
+Desktop Applications & CAD,DirectX,1
+Desktop Applications & CAD,Docker,1
+Desktop Applications & CAD,Doxygen,1
+Desktop Applications & CAD,GTest,1
+Desktop Applications & CAD,GitLab,1
+Desktop Applications & CAD,GitLab CI,1
+Desktop Applications & CAD,HTTP/REST,1
+Desktop Applications & CAD,"Linux (Astra Linux, РедОС)",1
+Desktop Applications & CAD,MFC,1
+Desktop Applications & CAD,MS SQL Server,1
+Desktop Applications & CAD,MS Visual Studio,1
+Desktop Applications & CAD,Modbus (опционально),1
+Desktop Applications & CAD,Multithreading,1
+Desktop Applications & CAD,NanoCAD,1
+Desktop Applications & CAD,ODBC,1
+Desktop Applications & CAD,OPC UA (опционально),1
+Desktop Applications & CAD,ObjectARX,1
+Desktop Applications & CAD,OpenGL,1
+Desktop Applications & CAD,OpenGL/OpenGL ES,1
+Desktop Applications & CAD,OpenSource,1
+Desktop Applications & CAD,POSIX,1
+Desktop Applications & CAD,"Python (базово, опционально)",1
+Desktop Applications & CAD,QMAKE,1
+Desktop Applications & CAD,"Qt (QWidget, Graphics View Framework, сигналы/слоты)",1
+Desktop Applications & CAD,Qt 5.15,1
+Desktop Applications & CAD,"Qt 5.x (Widgets, Signals/Slots, Threads)",1
+Desktop Applications & CAD,Qt/QtQML,1
+Desktop Applications & CAD,Qt6,1
+Desktop Applications & CAD,SOLID,1
+Desktop Applications & CAD,T-SQL,1
+Desktop Applications & CAD,TCP/IP,1
+Desktop Applications & CAD,"TCP/IP, сетевые сокеты",1
+Desktop Applications & CAD,Teigha,1
+Desktop Applications & CAD,UML,1
+Desktop Applications & CAD,bash,1
+Desktop Applications & CAD,boost::asio,1
+Desktop Applications & CAD,bug-tracker,1
+Desktop Applications & CAD,desktop,1
+Desktop Applications & CAD,ecpg,1
+Desktop Applications & CAD,ffmpeg,1
+Desktop Applications & CAD,unit-тесты,1
+Desktop Applications & CAD,"Визуализация данных (графики, большие массивы)",1
+Desktop Applications & CAD,Многопоточность/асинхронность,1
+Desktop Applications & CAD,Навыки работы с электронной документацией (преимущество),1
+Desktop Applications & CAD,"Парсинг бинарных данных, работа с raw-потоками",1
+Desktop Applications & CAD,Работа со SDK/документацией (англ.),1
+Desktop Applications & CAD,автотесты (C#),1
+Desktop Applications & CAD,баг-трекинг,1
+Desktop Applications & CAD,интеграция с внешними системами,1
+Desktop Applications & CAD,метод 'черного ящика',1
+Desktop Applications & CAD,оптимизация встроенных запросов,1
+Desktop Applications & CAD,системы контроля версий,1
+Desktop Applications & CAD,язык 1С,1
+Desktop Applications & CAD,язык запросов 1С,1
+Embedded & Firmware,C++,14
+Embedded & Firmware,C,10
+Embedded & Firmware,Linux,9
+Embedded & Firmware,I2C,8
+Embedded & Firmware,Python,8
+Embedded & Firmware,SPI,8
+Embedded & Firmware,Git,7
+Embedded & Firmware,CAN,6
+Embedded & Firmware,UART,4
+Embedded & Firmware,C/C++,3
+Embedded & Firmware,Ethernet,3
+Embedded & Firmware,STM32,3
+Embedded & Firmware,Windows,3
+Embedded & Firmware,Arduino,2
+Embedded & Firmware,Bluetooth,2
+Embedded & Firmware,CMake,2
+Embedded & Firmware,ESP32,2
+Embedded & Firmware,Java,2
+Embedded & Firmware,JavaScript,2
+Embedded & Firmware,TCP/IP,2
+Embedded & Firmware,UART/USART,2
+Embedded & Firmware,USB,2
+Embedded & Firmware,buildroot,2
+Embedded & Firmware,Алгоритмы и структуры данных,2
+Embedded & Firmware,Контрольно-измерительное оборудование,2
+Embedded & Firmware,ООП,2
+Embedded & Firmware,ADC,1
+Embedded & Firmware,ARM,1
+Embedded & Firmware,ATmega,1
+Embedded & Firmware,Android NDK,1
+Embedded & Firmware,Android SDK,1
+Embedded & Firmware,"Atmel (AVR, XMEGA, ARM)",1
+Embedded & Firmware,Audio/Multimedia,1
+Embedded & Firmware,BLE Mesh,1
+Embedded & Firmware,Bash,1
+Embedded & Firmware,Bug Tracking (системы отслеживания ошибок),1
+Embedded & Firmware,C++ (C++11+),1
+Embedded & Firmware,C++ (C++11...C++23),1
+Embedded & Firmware,C++ (C++17+),1
+Embedded & Firmware,C++14/17,1
+Embedded & Firmware,CI/CD (GitLab),1
+Embedded & Firmware,Cipher/шифрование,1
+Embedded & Firmware,Confluence,1
+Embedded & Firmware,CubeMX,1
+Embedded & Firmware,DMA,1
+Embedded & Firmware,Debugger,1
+Embedded & Firmware,Device drivers,1
+Embedded & Firmware,Digital Signal Processing,1
+Embedded & Firmware,Docker,1
+Embedded & Firmware,Eclipse,1
+Embedded & Firmware,Embedded C/C++,1
+Embedded & Firmware,Embedded Linux,1
+Embedded & Firmware,Embedded firmware,1
+Embedded & Firmware,FPGA,1
+Embedded & Firmware,FPGA (Altera/Xilinx),1
+Embedded & Firmware,Fingerprint,1
+Embedded & Firmware,Functional testing,1
+Embedded & Firmware,GCC 13.2,1
+Embedded & Firmware,GD,1
+Embedded & Firmware,GD32,1
+Embedded & Firmware,GNU/Linux,1
+Embedded & Firmware,GSM,1
+Embedded & Firmware,GitHub,1
+Embedded & Firmware,GitLab CI/CD,1
+Embedded & Firmware,GnuRadio,1
+Embedded & Firmware,HTTP/HTTPS,1
+Embedded & Firmware,JSON,1
+Embedded & Firmware,Jetpack Compose,1
+Embedded & Firmware,Jira,1
+Embedded & Firmware,Keil,1
+Embedded & Firmware,Kickstart,1
+Embedded & Firmware,Kotlin,1
+Embedded & Firmware,Linux (Debian/Ubuntu),1
+Embedded & Firmware,LoRaWAN,1
+Embedded & Firmware,Logic Analyzer,1
+Embedded & Firmware,MATLAB,1
+Embedded & Firmware,MQTT,1
+Embedded & Firmware,MS Office,1
+Embedded & Firmware,MSVC 2019+,1
+Embedded & Firmware,Make,1
+Embedded & Firmware,Matter,1
+Embedded & Firmware,NXP,1
+Embedded & Firmware,Nexus,1
+Embedded & Firmware,OOP,1
+Embedded & Firmware,Oscilloscope,1
+Embedded & Firmware,"PCB design (KiCad, Altium Designer, Sprint-Layout)",1
+Embedded & Firmware,PCI,1
+Embedded & Firmware,PWM,1
+Embedded & Firmware,PXIe,1
+Embedded & Firmware,Profiler,1
+Embedded & Firmware,Qt 4/5/6,1
+Embedded & Firmware,"Qt5/Qt6 (Qt Creator, qmake, Core, Concurrent, Network, Widgets, Quick/QML, Qt EGLFS)",1
+Embedded & Firmware,QtCreator,1
+Embedded & Firmware,REST API,1
+Embedded & Firmware,RS232,1
+Embedded & Firmware,RS485,1
+Embedded & Firmware,RTOS,1
+Embedded & Firmware,RabbitMQ,1
+Embedded & Firmware,Room,1
+Embedded & Firmware,SCTP,1
+Embedded & Firmware,SDIO,1
+Embedded & Firmware,SDMMC,1
+Embedded & Firmware,SDR,1
+Embedded & Firmware,SMD пайка,1
+Embedded & Firmware,SOAP,1
+Embedded & Firmware,SQL,1
+Embedded & Firmware,SSL/TLS,1
+Embedded & Firmware,STL,1
+Embedded & Firmware,STM,1
+Embedded & Firmware,STM (STM32 и др.),1
+Embedded & Firmware,STM32CubeIDE,1
+Embedded & Firmware,SVN,1
+Embedded & Firmware,Soldering,1
+Embedded & Firmware,TCP/IP / сокеты,1
+Embedded & Firmware,TCP/IP/DNS/DHCP,1
+Embedded & Firmware,TI TMS320 C2000,1
+Embedded & Firmware,TI microcontrollers,1
+Embedded & Firmware,Template programming,1
+Embedded & Firmware,Thread,1
+Embedded & Firmware,Timer,1
+Embedded & Firmware,UART/COM,1
+Embedded & Firmware,UART/RS232,1
+Embedded & Firmware,UDP,1
+Embedded & Firmware,UML,1
+Embedded & Firmware,Unit Testing,1
+Embedded & Firmware,Unit testing,1
+Embedded & Firmware,Unit-тесты,1
+Embedded & Firmware,VLAN,1
+Embedded & Firmware,Verilog HDL,1
+Embedded & Firmware,WLAN,1
+Embedded & Firmware,XML,1
+Embedded & Firmware,Yocto,1
+Embedded & Firmware,ZCM,1
+Embedded & Firmware,ZigBee,1
+Embedded & Firmware,Zigbee,1
+Embedded & Firmware,bash,1
+Embedded & Firmware,d-bus,1
+Embedded & Firmware,embedded,1
+Embedded & Firmware,gcc toolchain,1
+Embedded & Firmware,gdb,1
+Embedded & Firmware,git,1
+Embedded & Firmware,linux-sunxi (R40),1
+Embedded & Firmware,modbus,1
+Embedded & Firmware,protobuf,1
+Embedded & Firmware,rpm/deb,1
+Embedded & Firmware,systemd,1
+Embedded & Firmware,x86_64,1
+Embedded & Firmware,Автоматизированное тестирование,1
+Embedded & Firmware,Автотесты,1
+Embedded & Firmware,Алгоритмы цифровой обработки сигналов,1
+Embedded & Firmware,ГОСТ,1
+Embedded & Firmware,Графический интерфейсы,1
+Embedded & Firmware,Документация,1
+Embedded & Firmware,Криптография,1
+Embedded & Firmware,Логический анализатор,1
+Embedded & Firmware,Многопоточное программирование,1
+Embedded & Firmware,Мультиметр,1
+Embedded & Firmware,Осциллограф,1
+Embedded & Firmware,Прототипирование,1
+Embedded & Firmware,Прошивка/firmware,1
+Embedded & Firmware,Разработка ПО для БПЛА,1
+Embedded & Firmware,Растровая и векторная графика,1
+Embedded & Firmware,Ручное тестирование,1
+Embedded & Firmware,САПР/ПО для управления требованиями и дефектами,1
+Embedded & Firmware,Схемотехника,1
+Embedded & Firmware,Схемотехника электронного оборудования,1
+Embedded & Firmware,Тестирование и отладка (модульные тесты),1
+Embedded & Firmware,Техническая документация (англ.),1
+Embedded & Firmware,встраиваемые системы,1
+Embedded & Firmware,инструменты измерения/осциллографы,1
+Embedded & Firmware,микроконтроллеры,1
+Embedded & Firmware,"пайка, мультиметр, осциллограф",1
+Embedded & Firmware,радиолинии,1
+Embedded & Firmware,разработка технической документации,1
+Embedded & Firmware,связь с космическими аппаратами,1
+Embedded & Firmware,телеметрия,1
+Embedded & Firmware,чтение электрических схем,1
+Game Development,C++,4
+Game Development,Git,3
+Game Development,Blueprints,2
+Game Development,ООП,2
+Game Development,2D,1
+Game Development,3D,1
+Game Development,C#,1
+Game Development,HTML,1
+Game Development,Java,1
+Game Development,JavaScript,1
+Game Development,MVC,1
+Game Development,Node.js,1
+Game Development,UI,1
+Game Development,Unity,1
+Game Development,Unreal Engine 5,1
+Game Development,Unreal Engine 5.4,1
+Game Development,VR,1
+Game Development,Алгоритмы и структуры данных,1
+Game Development,Векторная математика,1
+Game Development,Мультиплеер,1
+Game Development,Разработка игр,1
+Game Development,Разработка игровых движков/библиотек,1
+Game Development,Сетевое взаимодействие,1
+Operating Systems & Toolchains,C++,9
+Operating Systems & Toolchains,Linux,5
+Operating Systems & Toolchains,Bash,4
+Operating Systems & Toolchains,Ansible,3
+Operating Systems & Toolchains,C,3
+Operating Systems & Toolchains,Docker,3
+Operating Systems & Toolchains,Git,3
+Operating Systems & Toolchains,CMake,2
+Operating Systems & Toolchains,DPDK,2
+Operating Systems & Toolchains,JavaScript,2
+Operating Systems & Toolchains,Jenkins,2
+Operating Systems & Toolchains,PowerShell,2
+Operating Systems & Toolchains,Python,2
+Operating Systems & Toolchains,SPDK,2
+Operating Systems & Toolchains,eBPF,2
+Operating Systems & Toolchains,1С,1
+Operating Systems & Toolchains,Active Directory,1
+Operating Systems & Toolchains,Angular,1
+Operating Systems & Toolchains,ArgoCD,1
+Operating Systems & Toolchains,Astra Linux,1
+Operating Systems & Toolchains,BPMN,1
+Operating Systems & Toolchains,C#,1
+Operating Systems & Toolchains,CGo,1
+Operating Systems & Toolchains,CI/CD,1
+Operating Systems & Toolchains,Cisco,1
+Operating Systems & Toolchains,ClearML,1
+Operating Systems & Toolchains,Confluence,1
+Operating Systems & Toolchains,Dart,1
+Operating Systems & Toolchains,DevOps,1
+Operating Systems & Toolchains,Dr. Web,1
+Operating Systems & Toolchains,ELK,1
+Operating Systems & Toolchains,Flutter,1
+Operating Systems & Toolchains,Free-IPA,1
+Operating Systems & Toolchains,GitLab,1
+Operating Systems & Toolchains,GitLab CI,1
+Operating Systems & Toolchains,Go,1
+Operating Systems & Toolchains,Golang,1
+Operating Systems & Toolchains,Grafana,1
+Operating Systems & Toolchains,Hive Metastore,1
+Operating Systems & Toolchains,Huawei,1
+Operating Systems & Toolchains,IA-32,1
+Operating Systems & Toolchains,IDE/офисные пакеты,1
+Operating Systems & Toolchains,Intel 64,1
+Operating Systems & Toolchains,JIRA,1
+Operating Systems & Toolchains,Java,1
+Operating Systems & Toolchains,JupyterHub,1
+Operating Systems & Toolchains,Kaspersky,1
+Operating Systems & Toolchains,Kotlin,1
+Operating Systems & Toolchains,Kubernetes,1
+Operating Systems & Toolchains,Linux (Ubuntu),1
+Operating Systems & Toolchains,"Linux (РЕД ОС, Astra)",1
+Operating Systems & Toolchains,Linux kernel,1
+Operating Systems & Toolchains,LinuxKI,1
+Operating Systems & Toolchains,MPL,1
+Operating Systems & Toolchains,Minio,1
+Operating Systems & Toolchains,NAS,1
+Operating Systems & Toolchains,NFS,1
+Operating Systems & Toolchains,NVMeOF,1
+Operating Systems & Toolchains,Nexus,1
+Operating Systems & Toolchains,ORM,1
+Operating Systems & Toolchains,OpenTelemetry,1
+Operating Systems & Toolchains,Outlook,1
+Operating Systems & Toolchains,Postgres Pro,1
+Operating Systems & Toolchains,QGIS,1
+Operating Systems & Toolchains,Qt,1
+Operating Systems & Toolchains,ROS2,1
+Operating Systems & Toolchains,RViz,1
+Operating Systems & Toolchains,S3,1
+Operating Systems & Toolchains,SAN,1
+Operating Systems & Toolchains,SCADA,1
+Operating Systems & Toolchains,SMB,1
+Operating Systems & Toolchains,Software-defined storage,1
+Operating Systems & Toolchains,Storage,1
+Operating Systems & Toolchains,TeamCity,1
+Operating Systems & Toolchains,Telegram API,1
+Operating Systems & Toolchains,Thunderbird,1
+Operating Systems & Toolchains,Trino,1
+Operating Systems & Toolchains,UGOS,1
+Operating Systems & Toolchains,UML,1
+Operating Systems & Toolchains,Unity,1
+Operating Systems & Toolchains,VB,1
+Operating Systems & Toolchains,VS Code,1
+Operating Systems & Toolchains,VictoriaMetrics,1
+Operating Systems & Toolchains,WebAssembly (wasm),1
+Operating Systems & Toolchains,Windows,1
+Operating Systems & Toolchains,Windows 10/11,1
+Operating Systems & Toolchains,bugzilla,1
+Operating Systems & Toolchains,docker,1
+Operating Systems & Toolchains,gRPC,1
+Operating Systems & Toolchains,gdb,1
+Operating Systems & Toolchains,iSCSI,1
+Operating Systems & Toolchains,io_uring,1
+Operating Systems & Toolchains,kvm,1
+Operating Systems & Toolchains,libvirt,1
+Operating Systems & Toolchains,macOS,1
+Operating Systems & Toolchains,podman,1
+Operating Systems & Toolchains,qemu,1
+Operating Systems & Toolchains,reviewboard,1
+Operating Systems & Toolchains,svn,1
+Operating Systems & Toolchains,vTune,1
+Operating Systems & Toolchains,Базы данных,1
+Operating Systems & Toolchains,ОС Аврора,1
+Operating Systems & Toolchains,Пакетный менеджер,1
+Operating Systems & Toolchains,Разработка компилятора,1
+Operating Systems & Toolchains,Распределённые системы,1
+Operating Systems & Toolchains,САПР,1
+Operating Systems & Toolchains,Сетевые протоколы,1
+Operating Systems & Toolchains,Фреймворки для тестирования,1
+Operating Systems & Toolchains,Эльбрус,1
+Robotics & Computer Vision & AI,C++,6
+Robotics & Computer Vision & AI,Python,6
+Robotics & Computer Vision & AI,Linux,5
+Robotics & Computer Vision & AI,Git,3
+Robotics & Computer Vision & AI,AI,2
+Robotics & Computer Vision & AI,Bash,2
+Robotics & Computer Vision & AI,Golang,2
+Robotics & Computer Vision & AI,Orange Pi,2
+Robotics & Computer Vision & AI,PyTorch,2
+Robotics & Computer Vision & AI,QML,2
+Robotics & Computer Vision & AI,computer vision,2
+Robotics & Computer Vision & AI,Многопоточность,2
+Robotics & Computer Vision & AI,ООП,2
+Robotics & Computer Vision & AI,3D печать,1
+Robotics & Computer Vision & AI,ARM,1
+Robotics & Computer Vision & AI,Arduino,1
+Robotics & Computer Vision & AI,Ardupilot (опционально),1
+Robotics & Computer Vision & AI,C,1
+Robotics & Computer Vision & AI,C#,1
+Robotics & Computer Vision & AI,C++ (C++11/14/17),1
+Robotics & Computer Vision & AI,C++ (желательно),1
+Robotics & Computer Vision & AI,C/C++,1
+Robotics & Computer Vision & AI,CI/CD,1
+Robotics & Computer Vision & AI,FastAPI,1
+Robotics & Computer Vision & AI,Flask,1
+Robotics & Computer Vision & AI,Frontend для веб (опционально),1
+Robotics & Computer Vision & AI,GitLab,1
+Robotics & Computer Vision & AI,IP/TCP/UDP,1
+Robotics & Computer Vision & AI,IPC,1
+Robotics & Computer Vision & AI,IT,1
+Robotics & Computer Vision & AI,Java,1
+Robotics & Computer Vision & AI,Java SE,1
+Robotics & Computer Vision & AI,Keras,1
+Robotics & Computer Vision & AI,MS Office,1
+Robotics & Computer Vision & AI,Machine Learning,1
+Robotics & Computer Vision & AI,MySQL,1
+Robotics & Computer Vision & AI,NMS,1
+Robotics & Computer Vision & AI,NPU,1
+Robotics & Computer Vision & AI,Nexus,1
+Robotics & Computer Vision & AI,ONNX,1
+Robotics & Computer Vision & AI,ONNX Runtime,1
+Robotics & Computer Vision & AI,Qt 5/6,1
+Robotics & Computer Vision & AI,Qt Quick,1
+Robotics & Computer Vision & AI,Qt Widgets,1
+Robotics & Computer Vision & AI,Qt5,1
+Robotics & Computer Vision & AI,R,1
+Robotics & Computer Vision & AI,RKNN,1
+Robotics & Computer Vision & AI,Raspberry Pi,1
+Robotics & Computer Vision & AI,RegExp,1
+Robotics & Computer Vision & AI,SQL,1
+Robotics & Computer Vision & AI,STL,1
+Robotics & Computer Vision & AI,STM32,1
+Robotics & Computer Vision & AI,SolidWorks,1
+Robotics & Computer Vision & AI,TCP/IP,1
+Robotics & Computer Vision & AI,TCP/UDP,1
+Robotics & Computer Vision & AI,TeamCity,1
+Robotics & Computer Vision & AI,TensorFlow,1
+Robotics & Computer Vision & AI,UDP,1
+Robotics & Computer Vision & AI,YOLO (v5/v8/v11),1
+Robotics & Computer Vision & AI,inference pipeline,1
+Robotics & Computer Vision & AI,multithreading,1
+Robotics & Computer Vision & AI,scikit-learn,1
+Robotics & Computer Vision & AI,АСУ ТП,1
+Robotics & Computer Vision & AI,Автоматизация,1
+Robotics & Computer Vision & AI,Алгоритмы и структуры данных,1
+Robotics & Computer Vision & AI,Видео/картография,1
+Robotics & Computer Vision & AI,Информационные технологии,1
+Robotics & Computer Vision & AI,Искусственный интеллект,1
+Robotics & Computer Vision & AI,КИП,1
+Robotics & Computer Vision & AI,Компас,1
+Robotics & Computer Vision & AI,Компас-3D,1
+Robotics & Computer Vision & AI,Компьютерные сети,1
+Robotics & Computer Vision & AI,Мехатроника,1
+Robotics & Computer Vision & AI,Микроконтроллеры,1
+Robotics & Computer Vision & AI,"Многопоточность (QThread, QtConcurrent)",1
+Robotics & Computer Vision & AI,Оптимизация кода,1
+Robotics & Computer Vision & AI,Паттерны проектирования,1
+Robotics & Computer Vision & AI,Работа с базами данных,1
+Robotics & Computer Vision & AI,Разработка ПО,1
+Robotics & Computer Vision & AI,Робототехника,1
+Robotics & Computer Vision & AI,Сетевые сервисы,1
+Robotics & Computer Vision & AI,Сигналы/слоты,1
+Robotics & Computer Vision & AI,Статистический анализ,1
+Robotics & Computer Vision & AI,Электроника,1
+Robotics & Computer Vision & AI,квантизация,1
+Robotics & Computer Vision & AI,многопоточность,1
+Scientific Computing & HPC,Git,2
+Scientific Computing & HPC,AWS,1
+Scientific Computing & HPC,Airflow,1
+Scientific Computing & HPC,C++,1
+Scientific Computing & HPC,C++14/17/20,1
+Scientific Computing & HPC,Cython,1
+Scientific Computing & HPC,Dagster,1
+Scientific Computing & HPC,Dask,1
+Scientific Computing & HPC,ELK,1
+Scientific Computing & HPC,Flake8,1
+Scientific Computing & HPC,GCS,1
+Scientific Computing & HPC,GitHub Actions,1
+Scientific Computing & HPC,GitLab CI,1
+Scientific Computing & HPC,Grafana,1
+Scientific Computing & HPC,InfluxDB,1
+Scientific Computing & HPC,Jenkins,1
+Scientific Computing & HPC,Linux,1
+Scientific Computing & HPC,Mypy,1
+Scientific Computing & HPC,NumPy,1
+Scientific Computing & HPC,Pandas,1
+Scientific Computing & HPC,Parquet,1
+Scientific Computing & HPC,PostgreSQL,1
+Scientific Computing & HPC,Prefect,1
+Scientific Computing & HPC,Prometheus,1
+Scientific Computing & HPC,Pydantic,1
+Scientific Computing & HPC,Pylint,1
+Scientific Computing & HPC,Pyright,1
+Scientific Computing & HPC,Python,1
+Scientific Computing & HPC,Ruff,1
+Scientific Computing & HPC,SciPy,1
+Scientific Computing & HPC,Sentry,1
+Scientific Computing & HPC,Spark,1
+Scientific Computing & HPC,VictoriaMetrics,1
+Scientific Computing & HPC,dataclasses,1
+Scientific Computing & HPC,googletest,1
+Scientific Computing & HPC,profiling (CPU/memory/filesystem),1
+Scientific Computing & HPC,pytest,1
+Scientific Computing & HPC,unittest.mock,1
+Scientific Computing & HPC,Кроссплатформенная разработка (желательно),1
+Scientific Computing & HPC,Оптимизация кода,1
+Scientific Computing & HPC,Рефакторинг,1
+Security & Reverse Engineering,C++,7
+Security & Reverse Engineering,Python,4
+Security & Reverse Engineering,C#,3
+Security & Reverse Engineering,Git,3
+Security & Reverse Engineering,Linux,3
+Security & Reverse Engineering,PostgreSQL,3
+Security & Reverse Engineering,Bash,2
+Security & Reverse Engineering,C/C++,2
+Security & Reverse Engineering,MongoDB,2
+Security & Reverse Engineering,TLS,2
+Security & Reverse Engineering,Windows,2
+Security & Reverse Engineering,.NET 6/8,1
+Security & Reverse Engineering,ARM64,1
+Security & Reverse Engineering,ARP,1
+Security & Reverse Engineering,BGP,1
+Security & Reverse Engineering,BIOS/UEFI,1
+Security & Reverse Engineering,C,1
+Security & Reverse Engineering,C++17/20,1
+Security & Reverse Engineering,CI/CD,1
+Security & Reverse Engineering,CMake,1
+Security & Reverse Engineering,CUDA,1
+Security & Reverse Engineering,ClickHouse,1
+Security & Reverse Engineering,Cmd,1
+Security & Reverse Engineering,Confluence,1
+Security & Reverse Engineering,Cross-platform (Windows/Linux/Mac),1
+Security & Reverse Engineering,DPDK,1
+Security & Reverse Engineering,DTLS,1
+Security & Reverse Engineering,Docker,1
+Security & Reverse Engineering,Driver development,1
+Security & Reverse Engineering,GDB,1
+Security & Reverse Engineering,GitLab,1
+Security & Reverse Engineering,Golang,1
+Security & Reverse Engineering,HTML,1
+Security & Reverse Engineering,Hyper-V,1
+Security & Reverse Engineering,IP,1
+Security & Reverse Engineering,Java,1
+Security & Reverse Engineering,Jira,1
+Security & Reverse Engineering,Kotlin,1
+Security & Reverse Engineering,LDAP,1
+Security & Reverse Engineering,"Linux (CentOS, Ubuntu)",1
+Security & Reverse Engineering,Linux (user/kernel space),1
+Security & Reverse Engineering,Multithreading,1
+Security & Reverse Engineering,Network programming,1
+Security & Reverse Engineering,Node.js,1
+Security & Reverse Engineering,OpenID Connect,1
+Security & Reverse Engineering,POSIX,1
+Security & Reverse Engineering,PowerShell,1
+Security & Reverse Engineering,Pytest,1
+Security & Reverse Engineering,QA,1
+Security & Reverse Engineering,QEMU,1
+Security & Reverse Engineering,QUIC,1
+Security & Reverse Engineering,Qt,1
+Security & Reverse Engineering,RA VPN,1
+Security & Reverse Engineering,RADIUS,1
+Security & Reverse Engineering,RISC-V,1
+Security & Reverse Engineering,Redis,1
+Security & Reverse Engineering,Reverse engineering,1
+Security & Reverse Engineering,SDL (безопасная разработка),1
+Security & Reverse Engineering,SQL optimization,1
+Security & Reverse Engineering,Selenium,1
+Security & Reverse Engineering,Swift,1
+Security & Reverse Engineering,TCP,1
+Security & Reverse Engineering,TCP/IP,1
+Security & Reverse Engineering,Test case,1
+Security & Reverse Engineering,TypeScript/JavaScript,1
+Security & Reverse Engineering,UDP,1
+Security & Reverse Engineering,UEFI,1
+Security & Reverse Engineering,Unit testing,1
+Security & Reverse Engineering,VMWare,1
+Security & Reverse Engineering,VMware,1
+Security & Reverse Engineering,VirtualBox,1
+Security & Reverse Engineering,Visual Studio 2022,1
+Security & Reverse Engineering,WebSocket,1
+Security & Reverse Engineering,WinAPI,1
+Security & Reverse Engineering,WinDBG,1
+Security & Reverse Engineering,WireGuard,1
+Security & Reverse Engineering,Xlib,1
+Security & Reverse Engineering,async/await,1
+Security & Reverse Engineering,bash,1
+Security & Reverse Engineering,cryptsetup,1
+Security & Reverse Engineering,eBPF/BPF,1
+Security & Reverse Engineering,iproute2,1
+Security & Reverse Engineering,nftables,1
+Security & Reverse Engineering,Драйверы (kernel-space),1
+Security & Reverse Engineering,Криптография,1
+Security & Reverse Engineering,Низкоуровневое программирование,1
+Security & Reverse Engineering,виртуализация/контейнеризация,1
+Security & Reverse Engineering,многопоточность,1
+Video & Media,C++,5
+Video & Media,Git,5
+Video & Media,STL,5
+Video & Media,Linux,4
+Video & Media,Qt,4
+Video & Media,ffmpeg,3
+Video & Media,C/C++,2
+Video & Media,Docker,2
+Video & Media,JavaScript,2
+Video & Media,Jenkins,2
+Video & Media,Kubernetes,2
+Video & Media,MS Visual Studio,2
+Video & Media,PostgreSQL,2
+Video & Media,Python,2
+Video & Media,WebRTC,2
+Video & Media,Windows,2
+Video & Media,AI,1
+Video & Media,Agile,1
+Video & Media,Astra Linux,1
+Video & Media,BACnet,1
+Video & Media,Boost,1
+Video & Media,Boost (boost.asio),1
+Video & Media,C++ (C++17+),1
+Video & Media,C++14+,1
+Video & Media,C++20,1
+Video & Media,CMake,1
+Video & Media,CUDA (плюс),1
+Video & Media,Carthage,1
+Video & Media,Cloud Services,1
+Video & Media,CocoaPods,1
+Video & Media,DWH,1
+Video & Media,Deep Learning,1
+Video & Media,Fastlane,1
+Video & Media,Frontend,1
+Video & Media,G.722,1
+Video & Media,Git Flow,1
+Video & Media,GitLab CI,1
+Video & Media,Go,1
+Video & Media,Golang,1
+Video & Media,GoogleTest,1
+Video & Media,H.264,1
+Video & Media,HTTP,1
+Video & Media,Image/Video Processing,1
+Video & Media,Instruments,1
+Video & Media,Kafka,1
+Video & Media,Linphone,1
+Video & Media,MFC,1
+Video & Media,MQTT,1
+Video & Media,Microsoft Visual Studio,1
+Video & Media,Mobile,1
+Video & Media,Modbus TCP,1
+Video & Media,Neural Networks,1
+Video & Media,ONVIF,1
+Video & Media,OPUS,1
+Video & Media,Objective-C,1
+Video & Media,Postgres,1
+Video & Media,PushKit,1
+Video & Media,Qt Creator,1
+Video & Media,RTP,1
+Video & Media,RTSP,1
+Video & Media,Redmine,1
+Video & Media,Ruby,1
+Video & Media,SDP,1
+Video & Media,SIP,1
+Video & Media,SQL,1
+Video & Media,Subversion (SVN),1
+Video & Media,Swift,1
+Video & Media,TCP/UDP (сетевое программирование),1
+Video & Media,Transact-SQL,1
+Video & Media,Unit-тесты,1
+Video & Media,VP8,1
+Video & Media,VoIP,1
+Video & Media,"VoIP (SIP, RTP/RTCP)",1
+Video & Media,XCFramework,1
+Video & Media,ZeroMQ,1
+Video & Media,audio/video codecs,1
+Video & Media,gRPC,1
+Video & Media,multithreading,1
+Video & Media,Видео/видеопотоки,1
+Video & Media,Компьютерное зрение,1
+Video & Media,Микросервисная архитектура,1
+Video & Media,Многопоточность,1
+Video & Media,ООП,1
+Video & Media,Планирование бюджета,1
+Video & Media,Проектный менеджмент,1
+Video & Media,Управление коммуникациями,1
+Video & Media,интеграционные и модульные тесты,1
+Video & Media,кросс‑платформенная разработка,1
+Video & Media,многопоточность,1
+Video & Media,работа с дампами,1
+описание дефектов,выполнение и анализ результатов тестирования (bags & logs),1
