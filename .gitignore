@@ -2,3 +2,7 @@
 .venv/bin
 /.idea
 /.venv
+AGENTS.md
+Data.csv
+Output.csv
+Vacancies.csv

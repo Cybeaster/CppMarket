@@ -13,7 +13,7 @@ from openai import OpenAI
 from openai import APIError, APITimeoutError, RateLimitError
 
 
-DEFAULT_MODEL = "gpt-4o-mini"
+DEFAULT_MODEL = "gpt-5-mini"
 
 OUTPUT_FIELDS = [
     "company_name",
